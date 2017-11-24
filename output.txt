@@ -1,0 +1,9 @@
+String: '' Memory: ''
+String: ')' Memory: ')'
+String: 'a)' Memory: 'a)'
+String: 'a)' Memory: 'A)'
+String: 'a)' Memory: 'S)'
+String: '(a)' Memory: '(S)'
+String: '(a)' Memory: 'A'
+String: '(a)' Memory: 'S'
+true
