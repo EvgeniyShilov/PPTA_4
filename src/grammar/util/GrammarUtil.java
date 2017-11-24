@@ -27,7 +27,7 @@ public class GrammarUtil {
 
     private static boolean isContextSensitive(Grammar grammar) {
         for (Rule rule : grammar.getRules())
-            if (rule.getLeft().length() > rule.getRight().length()) return false;
+            if (rule.getLeft().length() > rule.getRight().length() && !rule.getRight().isEmpty()) return false;
         return true;
     }
 

@@ -1,0 +1,5 @@
+S->KY|KM
+K->K*|K/|Y
+Y->|Ya/|Yb/
+M->*M*
+L->L^|^a
